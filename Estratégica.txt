@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Estratégia | PMO → VMO</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header class="header">
+    <div class="container nav">
+        <h1 class="logo">PMO → VMO</h1>
+        <nav>
+            <a href="index.html">História</a>
+            <a href="estrategia.html">Estratégia</a>
+            <a href="servicos.html">Serviços</a>
+            <a href="contato.html">Contato</a>
+        </nav>
+    </div>
+</header>
+
+<section class="hero small">
+    <h2>Estratégia Orientada a Valor</h2>
+</section>
+
+<section class="content container">
+    <div class="card">
+        <h4>Alinhamento Estratégico</h4>
+        <p>Projetos conectados diretamente aos objetivos organizacionais.</p>
+    </div>
+
+    <div class="card">
+        <h4>Gestão de Portfólio</h4>
+        <p>Priorização baseada em impacto, risco e retorno.</p>
+    </div>
+
+    <div class="card">
+        <h4>Métricas de Valor</h4>
+        <p>Mensuração contínua dos benefícios estratégicos.</p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 | PMO → VMO</p>
+</footer>
+
+</body>
+</html>

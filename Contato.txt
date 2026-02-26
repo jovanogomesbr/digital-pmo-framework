@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Contato | PMO → VMO</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script defer src="js/script.js"></script>
+</head>
+<body>
+
+<header class="header">
+    <div class="container nav">
+        <h1 class="logo">PMO → VMO</h1>
+        <nav>
+            <a href="index.html">História</a>
+            <a href="estrategia.html">Estratégia</a>
+            <a href="servicos.html">Serviços</a>
+            <a href="contato.html">Contato</a>
+        </nav>
+    </div>
+</header>
+
+<section class="hero small">
+    <h2>Entre em Contato</h2>
+</section>
+
+<section class="content container">
+    <form class="contact-form">
+        <input type="text" placeholder="Nome" required>
+        <input type="email" placeholder="Email" required>
+        <textarea placeholder="Mensagem" required></textarea>
+        <button type="submit">Enviar</button>
+    </form>
+</section>
+
+<footer>
+    <p>© 2026 | PMO → VMO</p>
+</footer>
+
+</body>
+</html>
